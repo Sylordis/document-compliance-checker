@@ -1,0 +1,2 @@
+class ConfigurationFileErrorException(Exception):
+  pass

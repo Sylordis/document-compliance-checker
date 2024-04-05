@@ -1,0 +1,6 @@
+config:
+  addcolumns:
+    - Priority
+    - Category (Assist / Product Assurance)
+    - Reviewed / Checked Yes / No
+    - Linked to requirement
